@@ -1,3 +1,5 @@
+# OPERADORES ARITMETICOS
+
 # ADICAO
 adicao = 10 + 10
 print('-> Adição =', adicao)
